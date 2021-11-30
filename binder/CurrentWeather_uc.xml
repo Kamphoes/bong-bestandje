@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="currentc.xsl" type="text/xsl" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> 
+<channel>
+<title>本港地区天气报告</title>
+<link>https://www.weather.gov.hk/tc/wxinfo/currwx/current.htm</link>
+<description>本港地区天气报告</description>
+<language>zh-tw</language>
+
+<copyright>本档案的内容，包括但不限于所有文本、平面图像、图画、图片、照片以及数据或其他资料的汇编，均受版权保障。香港特别行政区政府是本档案内所有版权作品的拥有人。</copyright>
+<image>
+
+    <title>本港地区天气报告</title>
+    <link>https://www.weather.gov.hk/tc/wxinfo/currwx/current.htm</link>
+	<url>https://rss.weather.gov.hk/img/hko_logo.gif</url>
+    <width>80</width>
+	<height>54</height>
+</image>
+<atom:link href="https://rss.weather.gov.hk/rss/CurrentWeather_uc.xml" rel="self" type="application/rss+xml" />
+<item>
+    <author>hkowm@hko.gov.hk (香港天文台)</author>
+    <guid isPermaLink="false">http://rss.weather.gov.hk/rss/CurrentWeatherBig5/20211130190200</guid>
+    <pubDate>Tue, 30 Nov 2021 11:02:00 GMT</pubDate>
+    <title>香港天文台于2021年11月30日19时02分发出之天气报告</title>
+    <category>R</category>
+
+    <link>https://www.weather.gov.hk/tc/wxinfo/currwx/current.htm</link>
+<description><![CDATA[
+						<p>
+				<img src="https://rss.weather.gov.hk/img/pic75.png" style="vertical-align: middle;"><br/><br/>	
+        下 午 7 时 				
+		天 文 台 录 得：<br/>
+		气 温 ： 21 度<br/>
+		相 对 湿 度 ： 百 分 之 61<br/>
+
+
+<br/>
+受 一 股 强 烈 东 北 季 候 风 影 响 ， 晚 间 本 港 气 温 会 显 著 下 降 。 明 早 （ 十 二 月 一 日 ） 相 当 清 凉 ， 市 区 最 低 气 温 约 14 度 ， 新 界 再 低 几 度 ， 日 间 非 常 干 燥 ， 日 夜 温 差 较 大 。 市 民 应 留 意 温 度 变 化 ， 注 意 保 暖 。<br/>
+
+
+
+
+
+
+						
+<br/><font color="red"><SPAN id='warning_message' >请注意：<br/>强烈季候风信号现正生效。<br/>火灾危险警告为红色，表示火灾危险性极高。<br/></SPAN><br/>		</font><p></p>
+本 港 其 他 地 区 的 气 温 ：<br/>
+                <font size="-1">
+    <table border="0" cellspacing="0" cellpadding="0">
+
+<tr><td>天 文 台 </td><td width="100" align="right">21 度 ，</td></tr>
+<tr><td>京 士 柏 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>黄 竹 坑 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>打 鼓 岭 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>流 浮 山 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>大 埔 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>沙 田 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>屯 门 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>将 军 澳 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>西 贡 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>长 洲 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>赤 &#40050;  角    </td><td width="100" align="right">21 度 ，</td></tr>
+<tr><td>青 衣 </td><td width="100" align="right">21 度 ，</td></tr>
+<tr><td>石 岗 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>荃 湾 可 观 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>荃 湾 城 门 谷 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>香 港 公 园 </td><td width="100" align="right">21 度 ，</td></tr>
+<tr><td>筲 箕 湾 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>九 龙 城 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>跑 马 地 </td><td width="100" align="right">21 度 ，</td></tr>
+<tr><td>黄 大 仙 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>赤 柱 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>观 塘 </td><td width="100" align="right">19 度 ，</td></tr>
+<tr><td>深 水 埗 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>启 德 跑 道 公 园 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>元 朗 公 园 </td><td width="100" align="right">20 度 ，</td></tr>
+<tr><td>大 美 督 </td><td width="100" align="right">19 度 。</td></tr>
+    </table></font><br/>
+]]>
+        </description>
+</item></channel></rss>
